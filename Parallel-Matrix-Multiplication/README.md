@@ -402,6 +402,7 @@ CUDA         ▏                                            0.343028 s
 ```
 
 ---
+![Performance Analysis](results/result%20analysis.png)
 
 ## 11. Speedup Analysis
 
