@@ -1,4 +1,4 @@
-# Parallel Matrix Multiplication using Sequential, OpenMP, MPI and CUDA
+# Performance analysis of Sequential,Openmp,MPI,CUDA for Matrix Multiplication
 
 ## Experiment 1 — Parallel Computing
 
@@ -512,5 +512,6 @@ The results highlight that as the degree of parallelism increases and hardware i
 ## Author
 
 **Sankalp Prakash Patil**  
-*B.Tech — Computer Science & Artificial Intelligence*  
+*B.E — Computer Science & Artificial Intelligence*  
+01FE24BCI095
 KLE Technological University
